@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c41ab40.chunk.css",
+    "main.js": "/static/js/main.0ef52679.chunk.js",
+    "main.js.map": "/static/js/main.0ef52679.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b084bfe7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b084bfe7.js.map",
+    "static/js/2.c4e92837.chunk.js": "/static/js/2.c4e92837.chunk.js",
+    "static/js/2.c4e92837.chunk.js.map": "/static/js/2.c4e92837.chunk.js.map",
+    "static/css/3.ddd5c3a3.chunk.css": "/static/css/3.ddd5c3a3.chunk.css",
+    "static/js/3.f3a45d89.chunk.js": "/static/js/3.f3a45d89.chunk.js",
+    "static/js/3.f3a45d89.chunk.js.map": "/static/js/3.f3a45d89.chunk.js.map",
+    "static/js/4.961ccacc.chunk.js": "/static/js/4.961ccacc.chunk.js",
+    "static/js/4.961ccacc.chunk.js.map": "/static/js/4.961ccacc.chunk.js.map",
+    "static/js/5.b448c267.chunk.js": "/static/js/5.b448c267.chunk.js",
+    "static/js/5.b448c267.chunk.js.map": "/static/js/5.b448c267.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.ddd5c3a3.chunk.css.map": "/static/css/3.ddd5c3a3.chunk.css.map",
+    "static/css/main.0c41ab40.chunk.css.map": "/static/css/main.0c41ab40.chunk.css.map",
+    "static/js/2.c4e92837.chunk.js.LICENSE.txt": "/static/js/2.c4e92837.chunk.js.LICENSE.txt",
+    "static/js/3.f3a45d89.chunk.js.LICENSE.txt": "/static/js/3.f3a45d89.chunk.js.LICENSE.txt",
+    "static/media/Benifiet_logo.3a5a3d96.png": "/static/media/Benifiet_logo.3a5a3d96.png",
+    "static/media/metamask.02e3ec27.png": "/static/media/metamask.02e3ec27.png",
+    "static/media/trustWallet.6f5dd772.png": "/static/media/trustWallet.6f5dd772.png",
+    "static/media/walletConnectIcon.488dc369.svg": "/static/media/walletConnectIcon.488dc369.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b084bfe7.js",
+    "static/css/3.ddd5c3a3.chunk.css",
+    "static/js/3.f3a45d89.chunk.js",
+    "static/css/main.0c41ab40.chunk.css",
+    "static/js/main.0ef52679.chunk.js"
+  ]
+}
